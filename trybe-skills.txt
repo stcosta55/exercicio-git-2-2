@@ -1,6 +1,7 @@
 - unix
 - bash
 - git
-- javascript
+- javaScript
 - css
 - soft skills
+- node
