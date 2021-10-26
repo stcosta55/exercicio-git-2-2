@@ -3,4 +3,5 @@
 - git
 - javaScript
 - css
+- soft skills
 - node
